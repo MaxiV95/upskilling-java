@@ -3,6 +3,7 @@ package HwInterface;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
+import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
@@ -16,15 +17,41 @@ public class Main {
         // Comparar productos por precio
         Collections.sort(listaProductos);
 
-        // Aplicar el filtro "Vendible" y mostrar resultados
-        Filtrable filtroVendible = new FiltroVendible();
-
-        System.out.println("Productos Vendibles:");
+        System.out.println("Productos ordenados por precio:");
         for (Producto producto : listaProductos) {
-            if (filtroVendible.cumpleFiltro(producto)) {
+            System.out.println("Nombre: " + producto.getNombre() + ", Precio: " + producto.getPrecio());
+        }
+
+        // Filtrar productos según los filtros definidos
+
+        Filtrable vendible = Filtros.vendible();
+        System.out.println("\nProductos vendibles:");
+        for (Producto producto : listaProductos) {
+            if (vendible.cumpleFiltro(producto)) {
                 System.out.println("Nombre: " + producto.getNombre() + ", Precio: " + producto.getPrecio());
             }
         }
+
+        Filtrable descartable = Filtros.descartable();
+        System.out.println("\nProductos descartables:");
+        for (Producto producto : listaProductos) {
+            if (descartable.cumpleFiltro(producto)) {
+                System.out.println("Nombre: " + producto.getNombre() + ", Código: " + producto.getCodigo());
+            }
+        }
+
+        try {
+            Filtrable imperecedero = Filtros.imperecedero();
+            System.out.println("\nProductos imperecederos:");
+            for (Producto producto : listaProductos) {
+                if (imperecedero.cumpleFiltro(producto)) {
+                    System.out.println("Nombre: " + producto.getNombre());
+                }
+            }
+        } catch (Exception e) {
+            System.out.println(e.getMessage());
+        }
+
     }
 }
 
