@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7cf471a0-9112-4472-b5d5-ed3be019956d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/upskilling-java.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/Usuario.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clase01-miPrimerProyectoJava.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/miPrimerProyectoJava.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Auto/AutoDeportivo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Auto/AutoFamiliar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Auto/Automovil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Persona.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Programador.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clase02-hwInventarioLibros/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clase02-hwInventarioLibros/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clase02-hwInventarioLibros/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clase02-hwInventarioLibros/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clase02-hwInventarioLibros/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clase02-hwInventarioLibros/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clase02-hwInventarioLibros/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clase02-hwInventarioLibros/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clase02-hwInventarioLibros/apiLibros.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clase02-hwInventarioLibros/clase02-hwInventarioLibros.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clase02-hwInventarioLibros/src/Book.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clase02-hwInventarioLibros/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clase02-hwInventarioLibros/src/Order.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clase03-conceptos" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clase04-hwConseptosInterfaces/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clase04-hwConseptosInterfaces/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clase04-hwConseptosInterfaces/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clase04-hwConseptosInterfaces/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clase04-hwConseptosInterfaces/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clase04-hwConseptosInterfaces/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clase04-hwConseptosInterfaces/hw-conseptosInterfaces.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clase04-hwConseptosInterfaces/src/HwCirculo/Circulo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clase04-hwConseptosInterfaces/src/HwCirculo/MainCirculo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clase04-hwConseptosInterfaces/src/HwInterface/Filtrable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clase04-hwConseptosInterfaces/src/HwInterface/FiltroVendible.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clase04-hwConseptosInterfaces/src/HwInterface/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clase04-hwConseptosInterfaces/src/HwInterface/Producto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clase04-hwConseptosInterfaces/src/HwString/MainString.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2XcfbcJEvMCQGYPuuAapiOTlaFu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="clase01-miPrimerProyectoJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7cf471a0-9112-4472-b5d5-ed3be019956d" name="Changes" comment="" />
+      <created>1698933364847</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698933364847</updated>
+    </task>
+    <servers />
+  </component>
+</project>
