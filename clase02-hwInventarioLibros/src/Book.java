@@ -1,4 +1,4 @@
-public class Book {
+public class Book implements Comparable<Book>{
     private final String title;
     private final double price;
     private int stock;
@@ -40,6 +40,12 @@ public class Book {
         } else {
             System.out.println("Stock insuficiente para esta venta.");
         }
+    }
+
+    // Implementación del método compareTo para comparar por precio
+    @Override
+    public int compareTo(Book otroLibro) {
+        return this.title.compareTo(otroLibro.title);
     }
 }
 
